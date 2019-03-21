@@ -110,7 +110,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Statician & Data Scientist"
   location         : "Seoul, Sinchon"
-  email            : hawi75@yonsei.ac.kr
   links:
     - label: "hawi75@yonsei.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
