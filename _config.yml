@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "SeungminHeo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Statician & Data Scientist"
+  bio              : "Statistician & Data Scientist"
   location         : "Seoul, Sinchon"
   links:
     - label: "hawi75@yonsei.ac.kr"
